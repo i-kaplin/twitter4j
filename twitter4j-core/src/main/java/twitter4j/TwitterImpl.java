@@ -579,6 +579,13 @@ class TwitterImpl extends TwitterBaseImpl implements Twitter {
     }
 
     @Override
+    public User verifyCredentials(HttpParameter[] parameters) throws TwitterException {
+        return super.fillInIDAndScreenName(parameters);
+    }
+
+
+
+    @Override
     public AccountSettings updateAccountSettings(Integer trend_locationWoeid,
                                                  Boolean sleep_timeEnabled, String start_sleepTime,
                                                  String end_sleepTime, String time_zone, String lang)
