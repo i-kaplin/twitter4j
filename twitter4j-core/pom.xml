@@ -3,7 +3,7 @@
 
     <groupId>com.knowably</groupId>
     <artifactId>twitter4j-core</artifactId>
-    <version>4.0.5</version>
+    <version>4.0.6-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>twitter4j-core</name>
     <description>A Java library for the Twitter API. It's a fork from
@@ -21,7 +21,7 @@
         <url>https://github.com/i-kaplin/twitter4j</url>
         <connection>scm:git:https://github.com/i-kaplin/twitter4j.git</connection>
         <developerConnection>scm:git:https://github.com/i-kaplin/twitter4j.git</developerConnection>
-      <tag>twitter4j-core-4.0.5</tag>
+      <tag>HEAD</tag>
   </scm>
     <developers>
         <developer>
