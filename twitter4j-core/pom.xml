@@ -19,8 +19,8 @@
     </licenses>
     <scm>
         <url>https://github.com/i-kaplin/twitter4j</url>
-        <connection>scm:git:https://github.com/i-kaplin/twitter4j.git</connection>
-        <developerConnection>scm:git:https://github.com/i-kaplin/twitter4j.git</developerConnection>
+        <connection>scm:git:git@github.com/i-kaplin/twitter4j.git</connection>
+        <developerConnection>scm:git:git@github.com/i-kaplin/twitter4j.git</developerConnection>
       <tag>HEAD</tag>
   </scm>
     <developers>
